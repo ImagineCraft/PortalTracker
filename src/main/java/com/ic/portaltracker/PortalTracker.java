@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.ic.portaltracker;
 
 import java.util.List;
@@ -22,10 +17,6 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.world.PortalCreateEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
-/**
- *
- * @author Robin
- */
 public class PortalTracker extends JavaPlugin{
     Server server;
     World overworld;
