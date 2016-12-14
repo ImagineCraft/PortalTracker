@@ -1,9 +1,0 @@
-name: Portal Tracker
-main: com.ic.portaltracker.PortalTracker
-version: 1.0
-authors:
-    - CyberDrain
-    - Kriation
-    - Beschio
-description: Portal creation helper
-commands:
